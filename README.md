@@ -1,4 +1,4 @@
-# Hi, I'm Wuttiparb Chittungsakul 👋
+<img width="1472" height="706" alt="image" src="https://github.com/user-attachments/assets/c28298df-ea00-48c5-a6ee-623504b17642" /># Hi, I'm Wuttiparb Chittungsakul 👋
 
 **AI Engineer · Computer Vision · MLOps · Bangkok, Thailand**
 
@@ -42,5 +42,5 @@ Currently open to **AI Engineer / MLOps** roles.
 ## Connect
 
 - **Email:** wuttiparb.chit@gmail.com
-- **LinkedIn:** linkedin.com/in/wuttiparb
+- **LinkedIn:** [inkedin.com/in/wuttiparb](https://www.linkedin.com/in/wuttiparb-chittungsakul-785a44391/)
 - **Tel:** 062-351-3932
