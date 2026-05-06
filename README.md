@@ -1,16 +1,93 @@
-## Hi there 👋
+README.md — github.com/Wuttiparb/Wuttiparb
+Hi, I'm Wuttiparb Chittungsakul
+AI Engineer · Computer Vision · MLOps · Bangkok, Thailand
+Python
+YOLOv8/v11
+Docker
+GitHub Actions
+OpenCV
+PyTorch
+About me
+Electronics & Telecom engineer turned AI practitioner. I build real-time computer vision systems and deploy them to production environments. Currently open to AI Engineer / MLOps roles.
+Built and deployed YOLOv11 cassette tracking in a semiconductor cleanroom at Infineon
+Developed facial recognition + CBAM attention for cleanroom access control
+International research exchange — KMUTT x Shibaura Institute of Technology, Tokyo
+GPAX 3.12 · B.Eng. Electronics & Telecom · KMUTT
+Tech stack
+AI / ML
+YOLOv8/11
+PyTorch
+OpenCV
+Roboflow
+DevOps
+Docker
+GitHub Actions
+CI/CD
+Git
+Tools
+VS Code
+SQLite
+Jira
+LaTeX
+Featured projects
+training-model
+Python
+YOLOv11 custom training pipeline for real-time cassette box detection and tracking in semiconductor production. Deployed in cleanroom environment at Infineon Manufacturing Thailand.
+facial-auth-cbam
+Python
+Cleanroom authentication system using facial recognition with CBAM (Convolutional Block Attention Module) for improved accuracy in restricted-access zones.
+Connect
+wuttiparb.chit@gmail.com
+LinkedIn
+062-351-3932
+Markdown source (copy และ paste ลง GitHub ได้เลย)ซ่อน
+# Hi, I'm Wuttiparb Chittungsakul 👋
 
-<!--
-**Wuttiparb/Wuttiparb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Engineer · Computer Vision · MLOps · Bangkok, Thailand**
 
-Here are some ideas to get you started:
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLO-v8%2Fv11-111111?style=flat)
+![Docker](https://img.shields.io/badge/Docker-1D63ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-F05032?style=flat&logo=githubactions&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About me
+
+Electronics & Telecom engineer turned AI practitioner.
+I build real-time computer vision systems and deploy them to production environments.
+
+Currently open to **AI Engineer / MLOps** roles.
+
+- Built and deployed YOLOv11 cassette tracking in a semiconductor cleanroom at Infineon
+- Developed facial recognition + CBAM attention for cleanroom access control
+- International research exchange — KMUTT × Shibaura Institute of Technology, Tokyo
+- GPAX 3.12 · B.Eng. Electronics & Telecom · KMUTT
+
+---
+
+## Tech Stack
+
+| AI / ML | DevOps | Tools |
+|---|---|---|
+| YOLOv8/11, PyTorch, OpenCV, Roboflow | Docker, GitHub Actions, CI/CD, Git | VS Code, SQLite, Jira, LaTeX |
+
+---
+
+## Featured Projects
+
+### training-model
+> YOLOv11 custom training pipeline for real-time cassette box detection and tracking in semiconductor production. Deployed in cleanroom environment at Infineon Manufacturing Thailand.
+
+### facial-auth-cbam *(coming soon)*
+> Cleanroom authentication system using facial recognition with CBAM attention for improved accuracy in restricted-access zones.
+
+---
+
+## Connect
+
+- **Email:** wuttiparb.chit@gmail.com
+- **LinkedIn:** linkedin.com/in/wuttiparb
+- **Tel:** 062-351-3932
+Copy failed — try from claude.ai in browser
