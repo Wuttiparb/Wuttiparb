@@ -37,9 +37,6 @@ Currently open to **AI Engineer / MLOps** roles.
 ### training-model
 > YOLOv11 custom training pipeline for real-time cassette box detection and tracking in semiconductor production. Deployed in cleanroom environment at Infineon Manufacturing Thailand.
 
-### facial-auth-cbam *(coming soon)*
-> Cleanroom authentication system using facial recognition with CBAM attention for improved accuracy in restricted-access zones.
-
 ---
 
 ## Connect
@@ -47,4 +44,3 @@ Currently open to **AI Engineer / MLOps** roles.
 - **Email:** wuttiparb.chit@gmail.com
 - **LinkedIn:** linkedin.com/in/wuttiparb
 - **Tel:** 062-351-3932
-Copy failed — try from claude.ai in browser
