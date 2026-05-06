@@ -1,4 +1,4 @@
-<img width="1472" height="706" alt="image" src="https://github.com/user-attachments/assets/c28298df-ea00-48c5-a6ee-623504b17642" /># Hi, I'm Wuttiparb Chittungsakul 👋
+# Hi, I'm Wuttiparb Chittungsakul 👋
 
 **AI Engineer · Computer Vision · MLOps · Bangkok, Thailand**
 
