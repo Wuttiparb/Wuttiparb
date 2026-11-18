@@ -20,7 +20,8 @@ Currently open to **AI Engineer / MLOps** roles.
 - Built and deployed YOLOv11 cassette tracking in a semiconductor cleanroom at Infineon
 - Developed facial recognition + CBAM attention for cleanroom access control
 - International research exchange — KMUTT × Shibaura Institute of Technology, Tokyo
-- GPAX 3.12 · B.Eng. Electronics & Telecom · KMUTT
+- Fresh Graduated
+  GPAX 3.17 · B.Eng. Electronics & Telecom · KMUTT
 
 ---
 
